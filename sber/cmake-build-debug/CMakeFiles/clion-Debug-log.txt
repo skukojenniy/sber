@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Ivan\Desktop\my-project\sber Select CMakeLists.txt
