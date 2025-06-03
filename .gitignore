@@ -1,1 +1,10 @@
 .idea/
+.idea/
+cmake-build-*/
+build/
+*.o
+*.exe
+*.log
+*.tmp
+*.user
+.DS_Store
